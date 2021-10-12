@@ -1,0 +1,22 @@
+.container {
+}
+
+.div {
+  position: absolute;
+  top: 20%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+.a {
+  padding: 50px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
+
+.img {
+  width: 50%;
+  height: auto;
+}
